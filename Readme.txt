@@ -21,6 +21,6 @@ TwoPhaseSimulator_Script: Simulator script (*********input variable parameters h
 TwoPhaseSimulatorImplicit.m: main simulator function
 
 
-cheers,
+regards,
 
 JR
